@@ -1,0 +1,212 @@
+
+=======================
+INFORMASI UMUM
+
+Nama kelompok: hesoyam
+Judul Topik: Presentasi Perkembangan Sistem Operasi Linux
+Alamat Github: https://github.com/mhdhawari/TKPPL.git
+Alamat Trello: https://trello.com/b/rsHg0MlU/tugas-tkppl
+Anggota 1:
+	Nama: Muhammad Hawari Simanullang
+	NIM: 101110796
+Anggota 2:
+	Nama: Muhammad Firkhan Siregar
+	NIM: 101112762
+Anggota 3:
+	Nama: Mukhlis Rusadi Situmorang
+	NIM: 101112185
+Anggota 4:
+	Nama:Wendi Rizkiansyah Meliala
+	NIM: 101112100
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 30/5
+Scrummaster: Muhammad Hawari Simanullang (101110796)
+
+Sprint 2:
+31/5 - 4/6
+Scrummaster: Wendi Rizkiansyah Meliala (101112100)
+
+Sprint 3: 
+/5 - /6
+Scrummaster:  ()
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Muhammad Hawari Simanullang 101110796):
+1. Semalam saya persiapan instalasi source tree, bespoke, dll
+2. instalasi source tree, bespkoe, dll dan diskusi topik
+3. Saya ada kendala di instalasi bespoke
+
+(Wendi Rizkiansyah Meliala 101112100):
+1. diskusi topik 
+2. persiapan instalasi aplikasi pendukung
+3. kendala isntalasi bespoke
+
+(Mukhlis Rusadi Situmorang 101112100):
+1. diskusi topik 
+2. persiapan instalasi aplikasi pendukung
+3. kendala isntalasi bespoke
+
+
+27/5 
+Daily Scrum
+(Muhammad Hawari Simanullang 101110796):
+1. Sinkronisasi repository dengan angggota kelompok
+2. melakukan tes pada repository
+3. Saya ada kendala pada saat pull request ke anggota kelompok
+
+
+(Wendi Rizkiansyah Meliala 101112100):
+1. Instalasi aplikasi pendukung
+2. melakukan clone repository dari master
+3. kendala pada pull request
+
+
+(Mukhlis Rusadi Situmorang 101112100):
+1. Instalasi aplikasi pendukung
+2. melakukan clone repository dari master
+3. kendala pada saat instalasi bespoke dan saat clone repository dari master
+
+
+28/5 
+Daily Scrum
+(Muhammad Hawari Simanullang 101110796):
+1. kemarin saya melakukan editing pada file index.jade
+2. Hari ini saya membuat slide pengenalan smartphone
+3. Saya ada kendala di merging pull request terhadap anggota Mukhlis Rusadi
+
+
+(Wendi Rizkiansyah Meliala 101112100):
+1. Membuat slide  sejarah smartphone
+2. Meng-compare file
+3. merge pull request bermasalah
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
+3.
+
+29/5 
+Daily Scrum
+(Muhammad Hawari Simanullang 101110796):
+1.Merge pull request dari anggota Wendi R. M.
+2.Melakukan editing slide pengenalan smartphone
+3.kendala pada saat edit index.jade
+
+
+(Wendi Rizkiansyah Meliala 101112100):
+1. 
+2. 
+3. 
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
+3.
+
+
+30/5 
+Daily Scrum
+(Muhammad Hawari Simanullang 101110796):
+1.Merge pull request dari anggota Wendi R. M.
+2.Melakukan editing slide pengenalan smartphone
+3.kendala pada saat edit index.jade
+
+
+(Wendi Rizkiansyah Meliala 101112100):
+1.Merge pull request dari anggota M. Hawari S.
+2.Melakukan Penambahan bagian "Sejarah Smartphone" dan Perubahan warna background dan penambahan img
+3.kendala pada saatedit index.jade 
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
+3.
+
+
+31/5 
+Daily Scrum
+(Wendi Rizkiansyah Meliala 101112100):
+1.Merge pull request dari anggota M. Hawari S.
+2.Melakukan penambahan slide di "pengenalan smartphone" dan "sistem operasi"
+3.kendala pada saatedit index.jade 
+
+
+(Muhammad Hawari Simanullang 101110796):
+1.Merge pull request dari anggota Wendi R. M.
+2.Melakukan editing slide pengenalan smartphone
+3.kendala pada saat edit index.jade
+
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
+3.
+
+
+01/6 
+Daily Scrum
+(Wendi Rizkiansyah Meliala 101112100):
+1.Merge pull request dari anggota M. Hawari S.
+2.Melakukan Penambahan bagian "Sejarah Smartphone"
+3.kendala pada saat edit index.jade 
+
+
+(Muhammad Hawari Simanullang 101110796):
+1.Merge pull request dari anggota Wendi R. M.
+2.Membuat slide Sistem Operasi
+3.kendala pada saat edit index.jade
+
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
+3.
+
+
+02/6 
+Daily Scrum
+(Wendi Rizkiansyah Meliala 101112100):
+1.Merge pull request dari anggota M. Hawari S.
+2.Melakukan Penambahan bagian sistem operasi
+3.kendala pada saat edit index.jade 
+
+
+(Muhammad Hawari Simanullang 101110796):
+1.Merge pull request dari anggota Wendi R. M.
+2.Menambah slide Sistem Operasi (android)
+3.kendala pada saat edit index.jade
+
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
+3.
+
+
+03/6 
+Daily Scrum
+(Wendi Rizkiansyah Meliala 101112100):
+1.Merge pull request dari anggota M. Hawari S.
+2.Melakukan Penambahan bagian sistem operasi
+3.kendala pada saat edit index.jade 
+
+
+(Muhammad Hawari Simanullang 101110796):
+1.Mengumpulkan informasi Blackberry OS 
+2.Menambah slide Sistem Operasi (Blackberry OS)
+3.kendala pada saat edit index.jade
+
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
+3.
