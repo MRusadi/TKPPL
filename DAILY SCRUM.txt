@@ -172,7 +172,7 @@ Daily Scrum
 3.
 
 
-01/6 
+02/6 
 Daily Scrum
 (Wendi Rizkiansyah Meliala 101112100):
 1.Merge pull request dari anggota M. Hawari S.
@@ -182,7 +182,27 @@ Daily Scrum
 
 (Muhammad Hawari Simanullang 101110796):
 1.Merge pull request dari anggota Wendi R. M.
-2.Membuat slide Sistem Operasi
+2.Menambah slide Sistem Operasi (android)
+3.kendala pada saat edit index.jade
+
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
+3.
+
+
+03/6 
+Daily Scrum
+(Wendi Rizkiansyah Meliala 101112100):
+1.Merge pull request dari anggota M. Hawari S.
+2.Melakukan Penambahan bagian sistem operasi
+3.kendala pada saat edit index.jade 
+
+
+(Muhammad Hawari Simanullang 101110796):
+1.Mengumpulkan informasi Blackberry OS 
+2.Menambah slide Sistem Operasi (Blackberry OS)
 3.kendala pada saat edit index.jade
 
 
