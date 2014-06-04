@@ -218,8 +218,8 @@ Daily Scrum
 2.Melakukan Penambahan bagian sistem operasi (Palm Os)
 
 (Muhammad Hawari Simanullang 101110796):
-1.
-2.
+1.Semalam saya merge pull request dari anggota Mukhlis Rusadi
+2.Hari ini menambah slide sistem operasi (Symbian OS) 
 
 (Mukhlis Rusadi Situmorang 101112100):
 1.
