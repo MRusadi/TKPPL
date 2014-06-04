@@ -210,3 +210,17 @@ Daily Scrum
 1.
 2.
 3.
+
+04/6 
+Daily Scrum
+(Wendi Rizkiansyah Meliala 101112100):
+1.Merge pull request dari anggota M. Hawari S.
+2.Melakukan Penambahan bagian sistem operasi (Palm Os)
+
+(Muhammad Hawari Simanullang 101110796):
+1.Semalam saya merge pull request dari anggota Mukhlis Rusadi
+2.Hari ini menambah slide sistem operasi (Symbian OS) 
+
+(Mukhlis Rusadi Situmorang 101112100):
+1.
+2.
