@@ -3,7 +3,7 @@
 INFORMASI UMUM
 
 Nama kelompok: hesoyam
-Judul Topik: Presentasi Perkembangan Sistem Operasi Linux
+Judul Topik: Presentasi Perkembangan Smartphone
 Alamat Github: https://github.com/mhdhawari/TKPPL.git
 Alamat Trello: https://trello.com/b/rsHg0MlU/tugas-tkppl
 Anggota 1:
