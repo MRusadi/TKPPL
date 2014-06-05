@@ -32,8 +32,8 @@ Sprint 2:
 Scrummaster: Wendi Rizkiansyah Meliala (101112100)
 
 Sprint 3: 
-/5 - /6
-Scrummaster:  ()
+5/5 - 8/6
+Scrummaster: Mukhlis Rusadi Situmorang (101112185)
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
@@ -224,3 +224,71 @@ Daily Scrum
 (Mukhlis Rusadi Situmorang 101112185):
 1.Kendala saat merge pull request dari anggota M. Hawari S.
 2.Melakukan Penambahan slide bagian sistem operasi (Windows Phone)
+
+05/6 
+Daily Scrum
+(Mukhlis Rusadi Situmorang 101112185):
+1.Menambah slide bagian Perkembangan Smartphone
+2.Pull request ke anggota M. Hawari S.
+3.Kendala pada saat edit index.jade
+
+(Wendi Rizkiansyah Meliala 101112100):
+1.
+2.
+3.
+
+(Muhammad Hawari Simanullang 101110796):
+1.
+2.
+3.
+
+06/6 
+Daily Scrum
+(Mukhlis Rusadi Situmorang 101112185):
+1.
+2.
+3.
+
+(Wendi Rizkiansyah Meliala 101112100):
+1.
+2.
+3.
+
+(Muhammad Hawari Simanullang 101110796):
+1.
+2.
+3.
+
+07/6 
+Daily Scrum
+(Mukhlis Rusadi Situmorang 101112185):
+1.
+2.
+3.
+
+(Wendi Rizkiansyah Meliala 101112100):
+1.
+2.
+3.
+
+(Muhammad Hawari Simanullang 101110796):
+1.
+2.
+3.
+
+08/6 
+Daily Scrum
+(Mukhlis Rusadi Situmorang 101112185):
+1.
+2.
+3.
+
+(Wendi Rizkiansyah Meliala 101112100):
+1.
+2.
+3.
+
+(Muhammad Hawari Simanullang 101110796):
+1.
+2.
+3.
