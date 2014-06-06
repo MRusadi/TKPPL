@@ -1,4 +1,3 @@
-
 =======================
 INFORMASI UMUM
 
@@ -233,21 +232,20 @@ Daily Scrum
 3.Kendala pada saat edit index.jade
 
 (Wendi Rizkiansyah Meliala 101112100):
-1.
-2.
-3.
+1.Menambah slide bagian Perkembangan Smartphone
+2.Pull request ke M. Hawari S.
 
 (Muhammad Hawari Simanullang 101110796):
-1.
-2.
-3.
+1.Merge pull request dari anggota Wendi Rizkiansyah Meliala
+2.Menambah slide perkembangan smartphone
+3.kendala saat merge pull request dari angggota Wendi Rizkiansyah
 
 06/6 
 Daily Scrum
 (Mukhlis Rusadi Situmorang 101112185):
-1.
-2.
-3.
+1.Kendala saat merge pull request dengan anggota M. Hawari S.
+2.Menambah slide perkembangan smartphone (Waterproof)
+3.Kendala pada saat edit index.jade
 
 (Wendi Rizkiansyah Meliala 101112100):
 1.
@@ -255,9 +253,9 @@ Daily Scrum
 3.
 
 (Muhammad Hawari Simanullang 101110796):
-1.
-2.
-3.
+1.Menambah slide perkembangan smartphone (Remote Control)
+2.Kendala saatmerge pull request dengan anggota lainnya.
+
 
 07/6 
 Daily Scrum
