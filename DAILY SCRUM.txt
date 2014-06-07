@@ -271,8 +271,8 @@ Daily Scrum
 3.
 
 (Muhammad Hawari Simanullang 101110796):
-1.
-2.
+1.penambahan slide manufaktur
+2.kendala melakukan merge dari anggota lainnya.
 3.
 
 08/6 
