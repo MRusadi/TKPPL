@@ -262,7 +262,7 @@ Daily Scrum
 (Mukhlis Rusadi Situmorang 101112185):
 1.Kesulitan merge pull request dari master
 2.Menambah slide manufaktur smartphone
-3.Menambah slide manufaktur smartphone (Statistik Penjualan)
+3.Menambah slide manufaktur smartphone  (Statistik Penjualan)
 
 (Wendi Rizkiansyah Meliala 101112100):
 1.
