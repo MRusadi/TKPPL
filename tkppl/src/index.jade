@@ -1,5 +1,6 @@
 doctype html
 html
+
   head
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
@@ -9,10 +10,30 @@ html
     //- Check out 'src/bower_components/prism/themes/' for available themes
     link(rel='stylesheet', type='text/css', href='bower_components/prism/themes/prism-tomorrow.css')
     link(rel='stylesheet', type='text/css', href='styles/main.css')
+    link(rel='stylesheet', type='text/css', href='dist/css/bootstrap.css')
+   
     // endbuild
 
   body
 
+    div(class='navbar navbar-inverse navbar-static-top')
+      div(class='container')
+        div(class='navbar-header')
+          div(class='navbar-collapse collapse')
+            ul(class='nav navbar-nav')
+              li(class='dropdown' style='margin-bottom:0px;')
+                a(href='javascript:void(0)' class='dropdown-toggle' data-toggle='dropdown')
+                  b Smartphone
+                ul(class='dropdown-menu')
+                  li
+                    a(href='#2') Pengenalan Smartphone
+                  li
+                    a(href='#7') Sejarah Smartphone
+                  li
+                    a(href='#13') Sistem Operasi
+                  li
+                    a(href='#32') Perkembangan Smartphone
+             
     article
 
       section
@@ -285,11 +306,9 @@ html
         
       section
         h2 <strong> Sistem Operasi (Cont...) </strong>
-        h3 Windows Phone 
+        h3 Windows Phone  
         p<strong> Persyaratan perangkat keras </strong> 
-        ol
-        li Microsoft mengumumkan beberapa persyaratan minimal telepon genggam agar bisa menggunakan Windows Phone.
-
+          li Microsoft mengumumkan beberapa persyaratan minimal telepon genggam agar bisa menggunakan Windows Phone.
             table
                 tr
                     td Capacitive, Layar 4-point multi-touch WVGA dengan resolusi (480x800)
@@ -357,17 +376,29 @@ html
          ul
           li Ketika ponsel telah berhasil menggeser kebiasaan dan kebudayaan, maka tak heran bila pada akhirnya kita akan sangat bergantung pada sebuah ponsel. Jika umumnya, kita kerap menyimpan berbagai gambar, musik, dan video di dalam ponsel, kini bahkan Anda bisa menjadikan smartphone sebagai remote televisi. Apple adalah pihak yang pertama kali mewujudkan gagasan tersebut. Lewat produknya, Apple AirPlay dan Apple TV, kini kita bisa menonton atau melihat gambar-gambar yang tersimpan di dalam ponsel. Melihat keberhasilan Apple, saat ini mulai banyak perusahaan-perusahaan teknologi yang mengikutinya, seperti Sony dan Samsung. <br /><br /> <br /><br /><br /><br />
         img(src="img/remote-control.jpg" width = "220" height = "200") 
-        
+       
       section
         h2 <strong> Perkembangan Smartphone (Cont...) </strong> </strong> <br /><br />
         p Beberapa perkembangan <em> smartphone</em> dari masa ke masa <br /><br />
         ol
         li Waterproof
          ul
-          li Air adalah sumber kehidupan kita. Namun, air juga bisa menjadi musuh kala kita sedang menggenggam atau menggunakan smartphone. Tenang, kini, Anda tidak perlu lagi takut bila ponsel tersiram, atau nyemplung ke air. Meski hanya bertahan pada kedalaman air maksimal 1 meter dan 30 menit lamanya, smartphone berfitur anti air bisa memberikan rasa aman apabila sang pengguna tanpa sengaja menjatuhkannya pada genangan air, kehujanan, maupun kebanjiran. Berbagai vendor pun kini seakan berlomba untuk menghadirkan smartphone berfitur anti air ini. Sebut saja Sony Xperia Z, Samsung Galaxy Xcover 2, Sony Xperia Go, dan beberapa lagi lainnya. <br /><br /><br /><br /><br /><br /><br />
-          
+          li Air adalah sumber kehidupan kita. Namun, air juga bisa menjadi musuh kala kita sedang menggenggam atau menggunakan smartphone. Tenang, kini, Anda tidak perlu lagi takut bila ponsel tersiram, atau nyemplung ke air.
+          li Apple adalah pihak yang pertama kali mewujudkan gagasan tersebut. Lewat produknya, Apple AirPlay dan Apple TV, kini kita bisa menonton atau melihat gambar-gambar yang tersimpan di dalam ponsel. Melihat keberhasilan Apple, saat ini mulai banyak perusahaan-perusahaan teknologi yang mengikutinya, seperti Sony dan Samsung.
         img(src="img/waterproof.jpg" width = "220" height = "200")
+          
+      section
+        h2 <strong> Manufaktur Smartphone</strong> </strong> <br /><br />
+         ul
+          li Sebuah data statistik dirilis oleh ABI Research untuk menggambarkan pangsa pasar pengguna ponsel dunia. Informasi penelitian ini berdasarkan jumlah unit ponsel yang dikapalkan kepada seluruh kanal retail, bukan berdasarkan data penjualan langsung ke konsumen. <br /><br /><br /><br />
+        img(src="img/manufaktur.jpg" width = "300" height = "230")
         
+      section
+        h2 <strong> Manufaktur Smartphone (Cont...) </strong> </strong> <br /><br />
+        p Berikut ini adalah hasil statistik data penjualan pada kuartal kedua tahun 2013:<br />
+        img(src="img/Data-tabel.jpg" width = "270" height = "280")
+
+
  
          
     // build:js scripts/scripts.js
@@ -382,4 +413,7 @@ html
     script(src='bower_components/bespoke-forms/dist/bespoke-forms.min.js')
     script(src='bower_components/prism/prism.js')
     script(src='scripts/main.js')
+    script(src='dist/js/jquery.js')
+    script(src='dist/js/bootstrap.min.js')
+    
     // endbuild

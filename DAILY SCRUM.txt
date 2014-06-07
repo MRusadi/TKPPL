@@ -248,21 +248,21 @@ Daily Scrum
 3.Kendala pada saat edit index.jade
 
 (Wendi Rizkiansyah Meliala 101112100):
-1.
-2.
-3.
+1.Kesulitan merge pull request dari master
+2.Menambah slide perkembangan smartphone
+3.Menambah navigasi (Bootstrap)
 
 (Muhammad Hawari Simanullang 101110796):
 1.Menambah slide perkembangan smartphone (Remote Control)
-2.Kendala saatmerge pull request dengan anggota lainnya.
+2.Kendala saat merge pull request dengan anggota lainnya.
 
 
 07/6 
 Daily Scrum
 (Mukhlis Rusadi Situmorang 101112185):
-1.
-2.
-3.
+1.Kesulitan merge pull request dari master
+2.Menambah slide manufaktur smartphone
+3.Menambah slide manufaktur smartphone (Statistik Penjualan)
 
 (Wendi Rizkiansyah Meliala 101112100):
 1.
