@@ -273,7 +273,7 @@ Daily Scrum
 (Muhammad Hawari Simanullang 101110796):
 1.penambahan slide Market share (manufaktur)
 2.kendala melakukan merge dari anggota lainnya.
-3.
+
 
 08/6 
 Daily Scrum
@@ -288,6 +288,5 @@ Daily Scrum
 3.
 
 (Muhammad Hawari Simanullang 101110796):
-1.
-2.
-3.
+1.Melakukan merge pull request dari anggota Wendi R.M.
+2.Melakukan edit pada file index.jade
