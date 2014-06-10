@@ -249,9 +249,8 @@ Daily Scrum
 3.
 
 (Wendi Rizkiansyah Meliala 101112100):
-1.
-2.
-3.
+1.Menambah slide perkembangan smartphone.
+2.Kendala saat merge pull request ke repositori.
 
 (Muhammad Hawari Simanullang 101110796):
 1.Menambah slide perkembangan smartphone (Remote Control)
@@ -283,9 +282,9 @@ Daily Scrum
 3.
 
 (Wendi Rizkiansyah Meliala 101112100):
-1.
-2.
-3.
+1.Melakukan merge pull request dari anggota Wendi R.M.
+2.Kendala melakukan merge dari anggota lainnya.
+3.Pelengkapan slide akhir Market share (Manufaktur)
 
 (Muhammad Hawari Simanullang 101110796):
 1.Melakukan merge pull request dari anggota Wendi R.M.
